@@ -75,3 +75,5 @@ the chances of getting these results if theirs no differents is 0.000009421, thi
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+
+We looked at the data in the boxplots and we found that the number of line players and the number of skill players doing pushups, were to small that we rejected that its the case, the average of skill players of doing pushups was about three times greater then the average of line players. 
